@@ -29,7 +29,7 @@ cd big-bang
 npm install
 ```
 
-3. Buidl TypeScript Code:
+3. Build TypeScript Code:
 
 ```bash
 npm run build
