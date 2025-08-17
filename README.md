@@ -20,7 +20,7 @@ Output is saved as a JSON file named `output.json`.
 
 ```bash
 git clone https://github.com/mrullldhm/big-bang
-cd big-bang-task
+cd big-bang
 ```
 
 2. Install dependencies:
