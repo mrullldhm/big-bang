@@ -19,7 +19,7 @@ Output is saved as a JSON file named `output.json`.
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/mrullldhm/big-bang](https://github.com/mrullldhm/big-bang)
+git clone <https://github.com/mrullldhm/big-bang>
 cd big-bang-task
 ```
 
