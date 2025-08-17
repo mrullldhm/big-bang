@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# TypeScript output
+dist/
+
+# Log files
+*.log
+
+# Generated files
+output.json
