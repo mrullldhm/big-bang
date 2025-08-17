@@ -1,0 +1,17 @@
+{
+  "name": "big-bang",
+  "version": "1.0.0",
+  "description": "Generate numbers from 1 to 100 replacing multiples of 3 with BIG, multiples of 5 with BANG, and both with BIGBANG.",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "node --loader ts-node/esm index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
