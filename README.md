@@ -1,4 +1,4 @@
-# BigBang Generator
+# BigBang Sequence Generator
 
 ![Output.json screenshot](/asset/screenshot.png)
 
